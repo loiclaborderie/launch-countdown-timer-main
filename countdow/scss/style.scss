@@ -51,7 +51,7 @@ body {
   text-transform: uppercase;
   letter-spacing: clamp(2px, 1vw, 5px);
   color: $neutral-white;
-  font-size: 18px;
+  font-size: clamp(14px, 3vw, 1.5rem);
 }
 .countdown {
   display: flex;
