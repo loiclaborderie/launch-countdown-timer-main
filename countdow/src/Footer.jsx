@@ -6,19 +6,13 @@ function Footer() {
       <div className="content">
         <div className="network-links">
           <a href="http://google.fr">
-            <img src="./public/images/icon-facebook.svg" alt="icone facebook" />
+            <img src="/images/icon-facebook.svg" alt="icone facebook" />
           </a>
           <a href="http://google.fr">
-            <img
-              src="./public/images/icon-instagram.svg"
-              alt="icone instagram"
-            />
+            <img src="/images/icon-instagram.svg" alt="icone instagram" />
           </a>
           <a href="http://google.fr">
-            <img
-              src="./public/images/icon-pinterest.svg"
-              alt="icone pinterest"
-            />
+            <img src="/images/icon-pinterest.svg" alt="icone pinterest" />
           </a>
         </div>
         <div className="attribution">
