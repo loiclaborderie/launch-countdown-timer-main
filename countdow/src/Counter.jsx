@@ -57,7 +57,7 @@ function Counter() {
   const [prevMinutes, setPrevMinutes] = useState(-1);
   const [prevSeconds, setPrevSeconds] = useState(-1);
 
-  const targetDate = new Date("2023-03-09 00:00:00");
+  const targetDate = new Date("2023-03-27 00:00:00");
 
   useEffect(() => {
     const interval = setInterval(() => {
